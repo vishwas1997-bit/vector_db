@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated Chroma persistent store (recreated by running ChromaDb.py)
+vector_db/
+
+# Editor
+.vscode/
